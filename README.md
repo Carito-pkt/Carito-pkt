@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, I'm Carolina, a Software Engineer</h1>
-<h3 align="center">I am a passionate software developer with a special focus on the back-end of applications. My passion lies in deciphering business logic and offering innovative solutions.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=carito-pkt&label=Profile%20views&color=0e75b6&style=flat" alt="carito-pkt" /> </p>
+<h1 align="center">Hi 👋, I'm Carolina, a Software Engineer🐽🍩🌞</h1>
+<h3 align="center">I am a passionate software developer with a special focus on the back-end of applications. My passion lies in deciphering business logic and offering innovative solutions .</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -16,4 +14,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=carito-pkt&show_icons=true&locale=en" alt="carito-pkt" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=carito-pkt&" alt="carito-pkt" /></p>****
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=carito-pkt&" alt="carito-pkt" /></p>
